@@ -1,3 +1,5 @@
+> 🌎 [English](README.en.md) · **Português (Brasil)**
+
 # Poupar
 
 Controle de gastos de supermercado que transforma a **foto de um cupom fiscal** em compra
